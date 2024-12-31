@@ -36,6 +36,7 @@
         .macos = .{ .path = "./pkg/macos" },
         .oniguruma = .{ .path = "./pkg/oniguruma" },
         .opengl = .{ .path = "./pkg/opengl" },
+        .vulkan = .{ .path = "./pkg/vulkan" },
         .sentry = .{ .path = "./pkg/sentry" },
         .simdutf = .{ .path = "./pkg/simdutf" },
         .utfcpp = .{ .path = "./pkg/utfcpp" },
